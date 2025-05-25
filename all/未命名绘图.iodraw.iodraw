@@ -17,7 +17,7 @@
           <mxGeometry x="590" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y1oBIjQQdPbCucvidUqs-216" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="230" width="80" height="60" as="geometry" />
+          <mxGeometry x="130" y="220" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y1oBIjQQdPbCucvidUqs-217" value="审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="220" width="80" height="60" as="geometry" />
