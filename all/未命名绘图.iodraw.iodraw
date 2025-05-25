@@ -10,6 +10,12 @@
         <mxCell id="Y1oBIjQQdPbCucvidUqs-211" value="商家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="90" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Y1oBIjQQdPbCucvidUqs-213" value="商家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1oBIjQQdPbCucvidUqs-214" value="商家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
