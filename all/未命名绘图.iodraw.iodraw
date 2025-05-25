@@ -7,7 +7,7 @@
         <mxCell id="Y1oBIjQQdPbCucvidUqs-210" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="90" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y1oBIjQQdPbCucvidUqs-211" value="商家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y1oBIjQQdPbCucvidUqs-211" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="90" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y1oBIjQQdPbCucvidUqs-213" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -100,13 +100,18 @@
             <mxPoint x="540" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Y1oBIjQQdPbCucvidUqs-238" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y1oBIjQQdPbCucvidUqs-235">
+          <mxGeometry x="-0.0037" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Y1oBIjQQdPbCucvidUqs-236" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y1oBIjQQdPbCucvidUqs-214" target="Y1oBIjQQdPbCucvidUqs-232">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="360" as="sourcePoint" />
             <mxPoint x="540" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y1oBIjQQdPbCucvidUqs-237" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y1oBIjQQdPbCucvidUqs-236">
+        <mxCell id="Y1oBIjQQdPbCucvidUqs-237" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y1oBIjQQdPbCucvidUqs-236">
           <mxGeometry x="0.1939" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
