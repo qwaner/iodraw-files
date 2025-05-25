@@ -14,7 +14,7 @@
           <mxGeometry x="360" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y1oBIjQQdPbCucvidUqs-214" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="590" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y1oBIjQQdPbCucvidUqs-216" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="150" width="80" height="60" as="geometry" />
@@ -23,12 +23,17 @@
           <mxGeometry x="480" y="150" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y1oBIjQQdPbCucvidUqs-218" value="审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="320" width="80" height="60" as="geometry" />
+          <mxGeometry x="480" y="310" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y1oBIjQQdPbCucvidUqs-220" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y1oBIjQQdPbCucvidUqs-216" target="Y1oBIjQQdPbCucvidUqs-210">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="360" as="sourcePoint" />
             <mxPoint x="540" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y1oBIjQQdPbCucvidUqs-226" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y1oBIjQQdPbCucvidUqs-220">
+          <mxGeometry x="0.1087" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y1oBIjQQdPbCucvidUqs-221" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y1oBIjQQdPbCucvidUqs-213" target="Y1oBIjQQdPbCucvidUqs-216">
