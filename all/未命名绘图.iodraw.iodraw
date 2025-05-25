@@ -7,7 +7,7 @@
         <mxCell id="Y1oBIjQQdPbCucvidUqs-210" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="90" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y1oBIjQQdPbCucvidUqs-211" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y1oBIjQQdPbCucvidUqs-211" value="商家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="90" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
