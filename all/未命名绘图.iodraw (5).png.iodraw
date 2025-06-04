@@ -53,13 +53,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="krLDc21-JXVD87DuUviE-1" value="下单时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="452" y="408" width="75" height="45" as="geometry" />
+          <mxGeometry x="681" y="422" width="75" height="45" as="geometry" />
         </mxCell>
         <mxCell id="krLDc21-JXVD87DuUviE-2" value="订单状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="388" width="75" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="krLDc21-JXVD87DuUviE-3" value="地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="567" y="365" width="75" height="45" as="geometry" />
+        <mxCell id="krLDc21-JXVD87DuUviE-3" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="664" y="321" width="75" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
