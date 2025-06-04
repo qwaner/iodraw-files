@@ -22,7 +22,7 @@
         <mxCell id="gHZyqk8cM97DEOA2gLV0-222" value="性别" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="455" y="257" width="75" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="gHZyqk8cM97DEOA2gLV0-223" value="销量" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gHZyqk8cM97DEOA2gLV0-223" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="537" y="155.5" width="75" height="45" as="geometry" />
         </mxCell>
         <mxCell id="gHZyqk8cM97DEOA2gLV0-224" value="手机" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
