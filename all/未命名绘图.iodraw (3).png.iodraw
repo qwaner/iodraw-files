@@ -13,7 +13,7 @@
         <mxCell id="gHZyqk8cM97DEOA2gLV0-236" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="233" y="115.5" width="81" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="gHZyqk8cM97DEOA2gLV0-237" value="时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gHZyqk8cM97DEOA2gLV0-237" value="评价时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="497" y="189" width="81" height="45" as="geometry" />
         </mxCell>
         <mxCell id="gHZyqk8cM97DEOA2gLV0-238" value="内容" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
